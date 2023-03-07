@@ -1,3 +1,5 @@
 this is the first file of Submodule2
 
 update to file
+
+update 2
